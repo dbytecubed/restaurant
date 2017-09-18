@@ -1,0 +1,16 @@
+/output
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# intellij idea stuff
+.idea
+*.iml
+
+# build stuff
+/target
+nb-configuration.xml
